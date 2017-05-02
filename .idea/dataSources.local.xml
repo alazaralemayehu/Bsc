@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - bsc@localhost" uuid="d99baf8d-7430-4a35-9a90-cc2e7dfc8308">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-scope>bsc:</introspection-scope>
+      <resolve-scope>bsc:</resolve-scope>
+    </data-source>
+  </component>
+</project>
